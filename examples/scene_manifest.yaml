@@ -1,0 +1,6 @@
+scene: example
+units: meters
+camera:
+  position: [0, 1.5, 4]
+objects: []
+lights: []
