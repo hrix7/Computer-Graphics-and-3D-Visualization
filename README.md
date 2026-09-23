@@ -34,9 +34,12 @@ Computer graphics, rendering, lighting, materials, scene composition, Blender, P
 
 Only original or permission-cleared assets should be committed. Course-provided assets and copyrighted textures are not redistributed.
 
-## Author
+## Author and Project Setting
 
-Hritika Adhikary.
+**Hritika Adhikary**  
+Computer Graphics and Imaging Summer Session  
+Stanford University, Palo Alto, California  
+June - August 2025
 
 ## Rights
 
