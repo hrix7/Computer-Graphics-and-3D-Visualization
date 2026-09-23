@@ -36,10 +36,10 @@ Only original or permission-cleared assets should be committed. Course-provided 
 
 ## Author and Project Setting
 
-**Hritika Adhikary**  
-Computer Graphics and Imaging Summer Session  
-Stanford University, Palo Alto, California  
-June - August 2025
+**Author:** Hritika Adhikary  
+**Program:** Computer Graphics and Imaging Summer Session  
+**Institution:** Stanford University, Palo Alto, California  
+**Period:** June - August 2025
 
 ## Rights
 
